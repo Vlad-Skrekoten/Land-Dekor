@@ -1,0 +1,25 @@
+.icon {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 32px;
+}
+
+.facebook, .instagram, .youtube, .logo {
+    transition: transform .2s ease;
+    cursor: pointer;
+}
+
+.facebook:hover, .instagram:hover, .youtube:hover, .logo:hover {
+    transform: scale(1.3);
+}
+
+.facebook:active, .instagram:active, .youtube:active, .logo:active {
+    transform: scale(1);
+}
+
+.header {
+    padding: 48px 0;
+    display: flex;
+    justify-content: space-around;
+}
+

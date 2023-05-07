@@ -12,7 +12,7 @@ https://www.figma.com/file/pTiZYmyHeWqY4IJKOuVWtm/Untitled?type=design&node-id=0
 
 https://vlad-skrekoten.github.io/Land-Dekor/
 
-<a href="https://vlad-skrekoten.github.io/Land-Dekor/">![image](https://user-images.githubusercontent.com/88341932/236217520-98e3d054-913a-4454-9fc0-ccec6dfb0c66.png)
+<a href="https://vlad-skrekoten.github.io/Land-Dekor/">![image](https://user-images.githubusercontent.com/88341932/236704456-9e5b8fb7-a934-444e-9233-034ac9092c48.png)
 </a>
 
 

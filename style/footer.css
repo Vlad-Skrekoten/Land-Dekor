@@ -62,7 +62,11 @@ transform: scale(1);
     font-size: 16px;
 }
 
-
+@media (min-width:1440px) {
+    .text__footer-first {
+        font-size: 100px ;
+    }
+}
 
 @media (max-width:600px) {
     .text__footer, .footer {
